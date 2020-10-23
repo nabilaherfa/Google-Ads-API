@@ -1,6 +1,7 @@
 ### TensorFlow
 
 by :
+
 Nabilah Erfariani
 
 13519181
@@ -25,3 +26,5 @@ Nabilah Erfariani
  Karena Tensorflow dapat dijalankan dengan Javascript, maka TensorFlow dapat dijalankan dengan browser dengan Tensorflow.js
  
  Tensorflow dapat membantu kita membuat neural network (jaringan artifisial yang mirip otak manusia) dalam skala besar. Tensorflow telah membantu para ilmuwan dalam proyek-proyek seperti pencarian planet baru, membantu dokter mencegah kebutaan dalam pasien yang terkena diabetes dan lain-lain. Tensorflow juga framework yang menopang proyek seperti AlphaGodan Google Cloud Vision.
+
+Dengan Tensorflow, kita dapat memulai bermain dengan Machine Learning di playground nya ataupun mulai mencoba Google Vision API.
