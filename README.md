@@ -12,5 +12,7 @@
  
  TensorFlow pertama kali diperkenalkan pada akhir tahun 2015. Pada tahun 2017 baru muncul versi pertama dari TensorFlow.
  
- ## Serba Serbi TensorFlow 
+ ## Seputar TensorFlow 
  TensorFlow mampu memberikan kemudahan interaksi layaknya programmer Python. Semua penulisan dan debugging baris demi baris terasa lebih mudah dan efisien. Hal ini memudahkan pekerjaan Developer dan Programmer.
+
+ TensorFlow dapat diaplikasikan dalam banyak bahasa pemrograman, mulai dari python, R, Swift, hingga JavaScript.
